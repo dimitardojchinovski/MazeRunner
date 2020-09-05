@@ -4,5 +4,6 @@
 ### Главен екран
 ![MazeRunner, ScreenShot1](https://raw.githubusercontent.com/dimitardojchinovski/MazeRunner/master/ScreenShots/MazeRunner.png)
 ### Старт
-
+![Start, ScreenShot2](https://raw.githubusercontent.com/dimitardojchinovski/MazeRunner/master/ScreenShots/Start.png)
 ### Инструкции
+![Instruction, ScreenShot3](https://raw.githubusercontent.com/dimitardojchinovski/MazeRunner/master/ScreenShots/Instruction.png)
